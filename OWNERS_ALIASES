@@ -1,0 +1,19 @@
+# Keep *-owners and *-approvers lists in sync with *-admins and *-maintainers in
+# https://github.com/kubernetes/org/blob/main/config/kubernetes-sigs/sig-cli/teams.yaml
+aliases:
+  kustomize-owners:
+  - nholuong
+  kustomize-approvers:
+  - nholuong
+  kustomize-reviewers:
+  - nholuong
+
+  docs-approvers:
+  - nholuong
+  docs-reviewers:
+  - nholuong
+
+  commands-approvers:
+  - nholuong
+  commands-reviewers:
+  - nholuong

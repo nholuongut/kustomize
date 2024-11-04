@@ -1,0 +1,9 @@
+# Copyright 2021 Nho Luong DevOps.
+# SPDX-License-Identifier: Apache-2.0
+
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: tester
+data:
+  some: data
